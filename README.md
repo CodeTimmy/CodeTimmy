@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;Hallo \#Gurkenglas
+Hey, whats up?
 
 <!--
 **CodeTimmy/CodeTimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
