@@ -1,5 +1,7 @@
-<p>uhm, so you found my profile?</p>
-<p>      nice!</p>
+uhm, so you found my profile?
+```text
+      nice!
+```
 
 <!--
 **CodeTimmy/CodeTimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
