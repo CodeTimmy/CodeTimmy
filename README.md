@@ -1,6 +1,6 @@
-uhm, so you found my profile?
 ```python
-      nice()
+print("uhm, so you found my profile?")
+nice()
 ```
 
 <!--
