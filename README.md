@@ -1,6 +1,6 @@
 uhm, so you found my profile?
-```text
-      nice!
+```python
+      nice()
 ```
 
 <!--
